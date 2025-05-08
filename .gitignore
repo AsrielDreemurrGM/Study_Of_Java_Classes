@@ -43,3 +43,6 @@ Icon?
 
 # Environment variables
 .env
+
+# SonarLint
+.sonarlint
